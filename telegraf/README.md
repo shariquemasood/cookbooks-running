@@ -1,4 +1,4 @@
-# telegraf
+# Telegraf InfluxDB Grafana
 
 localhost:3000
 
